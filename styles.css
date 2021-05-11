@@ -69,7 +69,7 @@ section {
 .hands , .options {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .player-hand {
