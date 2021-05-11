@@ -67,9 +67,9 @@ section {
     font-size: 40px; 
 }
 .hands , .options {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .player-hand {
